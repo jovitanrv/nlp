@@ -1,0 +1,5 @@
+Petunjuk menjalankan program :
+- Pastikan file a1.txt hingga a20.txt berada pada folder yang sama dengan file python
+- Jika menggunakan google colab, upload 20 file txt tersebut
+- Setelah itu lakukan running program satu persatu sesuai urutan persection (dari tf-idf ke ppmi)
+- Setelah semua section berhasil dirunning, running bagian eksperimen dari nomor 1 hingga nomor 5

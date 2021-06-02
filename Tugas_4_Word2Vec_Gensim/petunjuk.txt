@@ -1,0 +1,5 @@
+Petunjuk menjalankan program :
+- Pastikan file 1.txt hingga 100.txt berada pada folder yang sama dengan file python
+- Jika menggunakan google colab, upload q00 file txt tersebut
+- Setelah itu lakukan running program satu persatu sesuai urutan persection
+- Setelah semua section berhasil dirunning, running bagian nomor 1 hingga nomor 4

@@ -1,0 +1,9 @@
+Petunjuk menjalankan program :
+- Pastikan train.01.tsv berada pada folder yang sama dengan file python
+- Jika menggunakan google colab, upload file tsv tersebut
+- Setelah itu lakukan running program satu persatu sesuai urutan persection atau train data
+- Setelah semua section berhasil dirunning, masukkan file data uji test_sentences.tsv
+- Running bagian testing
+- Setelah keluar nilai akurasinya, program selesai.
+
+Hal yang sama dilakukan baik untuk tugas5_baseline.py maupun tugas5_classification.py

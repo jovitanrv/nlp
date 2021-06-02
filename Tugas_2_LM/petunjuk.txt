@@ -1,0 +1,8 @@
+Petunjuk menjalankan program :
+- Pastikan file teks1.txt hingga teks20.txt berada pada folder yang sama dengan file python
+- Jika menggunakan google colab, upload 20 file txt tersebut
+- Setelah itu lakukan running program satu persatu sesuai urutan
+- Kemudian, pada saat pengujian data pastikan test.txt berada dalam satu folder dengan file python
+- Atau jika menggunakan google colab, upload test.txt
+- Lakukan running program untuk menguji data dengan kalimat uji
+- Hasil laplace smoothing dan perplexity kalimat uji dapat dilihat di hasil running

@@ -1,0 +1,6 @@
+Petunjuk menjalankan program :
+- Lakukan running program satu persatu sesuai urutan persection pertama pada bagian 1 dahulu
+- Setelah semua section berhasil dirunning, maka akan muncul jawaban untuk nomor 1 hingga 4
+- Kemudian upload file kethu_example.mrg jika dilakukan pada google colab
+- Jika dilakukan pada python biasa, pastikan file tersebut ada dalam satu folder dengan python
+- Running program satu persatu hingga semua pohon akar ter print out
